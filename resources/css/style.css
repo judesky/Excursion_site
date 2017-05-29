@@ -1,12 +1,12 @@
 html {
   font-family: Verdana;
   text-align: center;
+  color: white;
 }
 
 h1 {
   font-weight: Normal;
   font-size: 50px;
-  color: white;
 }
 
 h2 {
@@ -25,5 +25,5 @@ p {
 }
 
 p.footer {
-  text-align: rigth;
+  text-align: right;
 }
